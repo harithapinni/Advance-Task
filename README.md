@@ -2,20 +2,19 @@
  
 Task-1 Writing Manual Test Conditions and Test Cases for the Mars Application.
 ===================================================================================================================================================================================
-"Registration for the Mars Application"
-
-"Login"
-
-Manual Test Cases  for the "Profile Page"
-
-Manual Test Cases for the "Dashboard"
-
-Manual Test Cases for the "Language, Skills, Education, Certification"
-
-Manual Test Cases for the "Search box, filter, Notification, Chat, Change Password"
-
-Manual Test Cases for the "Share Skill"
-
-Manual Test Cases for the "Manage Listing"
-
-Manual Test Cases for the "Manage Request"
+ "Registration for the Mars Application"
+ "Login"
+ "User Profile"
+ "Dashboard"
+ "Language" ,  
+ "Skills"
+ "Education"
+ "Certification"
+ "Search box"
+ "Filter"
+ "Notification"
+ "Chat"
+ "Change Password"
+ "Share Skill"
+ "Manage Listing"
+ "Manage Request"
