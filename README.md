@@ -2,9 +2,9 @@
  
 Task-1 Writing Manual Test Conditions and Test Cases for the Mars Application.
 ===================================================================================================================================================================================
-Manual Test Cases for the "Registration of Mars Application"
+"Registration for the Mars Application"
 
-Manual Test Cases for the "Login"
+"Login"
 
 Manual Test Cases  for the "Profile Page"
 
